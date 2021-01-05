@@ -1,0 +1,15 @@
+# [Section]
+# key<tab>value
+
+[Domain]
+com	whois.verisign-grs.com
+net	whois.verisign-grs.com
+org	whois.pir.org
+biz	whois.biz
+
+# ccTLD
+jp	whois.jprs.jp
+
+# new gTLD
+xyz	whois.nic.xyz
+moe	whois.nic.moe
